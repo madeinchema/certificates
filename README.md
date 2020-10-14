@@ -12,13 +12,13 @@ Discover part of my training as a developer.
         </a>
     </li>
     <li>
-        <a href="">[Certificate]</a> -
+        <a href="https://github.com/madeinchema/certificates/tree/master/certificates/Ultimate%20Courses%20-%20TypeScript%20Basics">[Certificate]</a> -
         <a href="https://ultimatecourses.com/learn/typescript-basics">
             Ultimate Courses - TypeScript Basics
         </a>
     </li>
     <li>
-        <a href="">[Certificate]</a> -
+        <a href="https://github.com/madeinchema/certificates/tree/master/certificates/Ultimate%20Courses%20-%20TypeScript%20Masterclass">[Certificate]</a> -
         <a href="https://ultimatecourses.com/learn/typescript-masterclass">
             Ultimate Courses - TypeScript Masterclass
         </a>
