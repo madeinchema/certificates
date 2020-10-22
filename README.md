@@ -6,6 +6,12 @@ Discover part of my training as a developer.
 
 <ul>
     <li>
+        <a href="https://scrimba.com/certificate/uv6DQMAz/gfrontend">[Certificate]</a> -
+        <a href="https://scrimba.com/learn/frontend">
+            Scrimba - The Frontend Developer Career Path
+        </a>
+    </li>
+    <li>
         <a href="https://scrimba.com/certificate/uv6DQMAz/greact">[Certificate]</a> -
         <a href="https://scrimba.com/learn/react">
             Scrimba - The React Bootcamp
