@@ -24,6 +24,12 @@ Discover part of my training as a developer.
         </a>
     </li>
     <li>
+        <a href="https://scrimba.com/certificate/uv6DQMAz/gresponsive">[Certificate]</a> -
+        <a href="https://scrimba.com/learn/responsive">
+            Scrimba - The Responsive Web Design Bootcamp
+        </a>
+    </li>
+    <li>
         <a href="https://scrimba.com/certificate/uv6DQMAz/gdesignbootcamp">[Certificate]</a> -
         <a href="https://scrimba.com/learn/designbootcamp">
             Scrimba - The UI Design Bootcamp
